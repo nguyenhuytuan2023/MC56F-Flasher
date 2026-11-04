@@ -8,10 +8,6 @@ MC56F Flasher phục vụ thao tác bộ nhớ Flash trên các MCU MC56F đư�
 
 ## Tải ứng dụng
 
-**Trạng thái:** Bản phát hành `v1.0.295` đang chờ hoàn tất tải tệp thực thi. Hiện chưa có file `.exe` công khai trong Releases.
-
-[Xem các bản phát hành và ghi chú phiên bản](https://github.com/nguyenhuytuan2023/MC56F-Flasher/releases). Sau khi phát hành, chọn `MC56F-Flasher.exe` trong mục **Assets**.
-
 | Thông tin | Giá trị |
 |---|---|
 | Phiên bản | 1.0.295 |
@@ -48,7 +44,6 @@ Giá trị SHA-256 giúp đối chiếu tệp tải về với bản phát hành
 2. Kiểm tra chính xác mã MCU, sơ đồ đấu nối, GND, VTref và nguồn cấp. Không mặc định điện áp do bộ nạp cung cấp phù hợp với bo mạch.
 3. Mở `MC56F-Flasher.exe`, chọn thiết bị và các thông số tương ứng trong giao diện.
 4. Chọn đúng file firmware. Giao diện có bộ lọc cho các định dạng `.bin`, `.hex`, `.s19`, `.srec`, `.mot`; nội dung và địa chỉ dữ liệu phải phù hợp với MCU/vùng nhớ được chọn.
-5. Sao lưu dữ liệu gốc và thông số cấu hình trước khi xóa hoặc ghi, nếu thiết bị cho phép. Chuẩn bị phương án phục hồi trước khi thực hiện thao tác có thể làm mất dữ liệu.
 6. Duy trì nguồn cấp và kết nối ổn định trong quá trình thao tác; sử dụng chức năng kiểm tra dữ liệu khi phù hợp.
 
 Khả năng thực hiện từng thao tác phụ thuộc MCU, trạng thái bảo vệ, bộ nạp và bo mạch. Danh sách lựa chọn trong giao diện không phải cam kết tương thích với mọi biến thể hoặc mọi thiết bị sử dụng MCU đó.
