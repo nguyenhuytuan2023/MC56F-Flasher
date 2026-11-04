@@ -8,10 +8,9 @@ MC56F Flasher phục vụ thao tác bộ nhớ Flash trên các MCU MC56F đư�
 
 ## Tải ứng dụng
 
-- [Tải MC56F-Flasher.exe bản mới nhất](https://github.com/nguyenhuytuan2023/MC56F-Flasher/releases/latest/download/MC56F-Flasher.exe)
-- [Xem các bản phát hành và ghi chú phiên bản](https://github.com/nguyenhuytuan2023/MC56F-Flasher/releases)
+**Trạng thái:** Bản phát hành `v1.0.295` đang chờ hoàn tất tải tệp thực thi. Hiện chưa có file `.exe` công khai trong Releases.
 
-Trong mục **Assets**, chọn `MC56F-Flasher.exe` để tải ứng dụng.
+[Xem các bản phát hành và ghi chú phiên bản](https://github.com/nguyenhuytuan2023/MC56F-Flasher/releases). Sau khi phát hành, chọn `MC56F-Flasher.exe` trong mục **Assets**.
 
 | Thông tin | Giá trị |
 |---|---|
